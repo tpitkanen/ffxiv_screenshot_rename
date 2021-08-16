@@ -2,10 +2,10 @@
 
 A script for mass-renaming Final Fantasy XIV screenshots to a more sortable format.
 
-Old | New
-------|-------
-ffxiv_{dMy_hms_S}|ff_{yMd_hms_S}
-ffxiv_31072021_164028_968.png|ff_20210731_164028_968.png
+Old name                      | New name
+------------------------------|---------------------------
+ffxiv_ddMMyyyy_hhmmss_SSS.ext | ff_yyyyMMdd_hhmmss_SSS.ext
+ffxiv_31072021_164028_968.png | ff_20210731_164028_968.png
 
 ## Requirements
 
