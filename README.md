@@ -35,7 +35,7 @@ cd C:\path\to\ffxiv_screenshots
 ```
 3. (Optional) Run `Rename-FFXIVScreenshotsBack.ps1` to revert the rename.
 
-## Usage (macOs and Linux) (untested)
+## Usage (macOS and Linux) (untested)
 
 1. Open a terminal (e.g. PowerShell).
 2. Navigate to the FFXIV screenshot folder and run the script:
